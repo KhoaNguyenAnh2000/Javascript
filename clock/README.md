@@ -1,1 +1,1 @@
-https://khoanguyenanh2000.github.io/Javascript/
+https://khoanguyenanh2000.github.io/Javascript/clock.html
